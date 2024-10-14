@@ -1,10 +1,3 @@
-### Hi there 👋
-I am a backend developer. Core skill set: Python, FastAPI, Django, React.js, JavaScript.
-<img src="https://github-profile-trophy.vercel.app/?username=Seckrel&row=4&column=4&theme=oldie&margin-w=8&margin-h=3&rank=-C,-UNKNOWN,-?" alt="Seckrel's GitHub Trophies"/><br />
-<img src="https://github-readme-stats.vercel.app/api?username=Seckrel&count_private=true&show_icons=true&theme=nord&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&show_all_commits=true" alt="Seckrel's GitHub Stats"/><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seckrel&langs_count=5&theme=nord&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,less" alt="Seckrel's Top Language"/>
-
-
 ![👋 Hi, my name is Aayam Ojha](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
 <div id="toc">
@@ -35,11 +28,11 @@ I am a backend developer. Core skill set: Python, FastAPI, Django, React.js, Jav
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Seckrel&count_private=true&show_icons=true&theme=react&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&show_all_commits=true" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seckrel&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false&hide=jupyter%20notebook,less" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Seckrel&count_private=true&show_icons=true&theme=react&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&show_all_commits=true&hide_border=true&hide_title=true" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seckrel&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true&hide=jupyter%20notebook,less&hide_title=true" alt="GitHub top-langs Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
 </p>
 
