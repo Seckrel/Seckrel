@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing web-app & maintaining SaaS**
 - 🌱 I'm currently learning: **📚 Exploring Apache Kafka**
 - 💬 Ask me about: **💡 Python, Django, Javascript, React, and Restful APIs**
-- 📜 Published: **📄 Paper on Speech Analysis on Twitter. [Link](https://journal.deerwalk.edu.np/paper.php?t=automated-detection-of-hate-speech-in-twitter-using-natural-language-processing) **
+- 📜 Published: **📄 Paper on Speech Analysis on Twitter. [Link](https://journal.deerwalk.edu.np/paper.php?t=automated-detection-of-hate-speech-in-twitter-using-natural-language-processing)**
 
  **<h3 align="left">Skills</h3>**
 
