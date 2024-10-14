@@ -34,6 +34,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
-  [![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/athena-vision)
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/athena-vision)
 
