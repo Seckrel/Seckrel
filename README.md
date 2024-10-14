@@ -42,29 +42,24 @@
   </a>
 </div>
 
+<div style="display: inline-block;">
+  <a href="https://github.com/Seckrel/personality-analyzer-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=personality-analyzer-backend&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Personality Analyzer backend repo"/>
+  </a>
 
+  <a href="https://github.com/Seckrel/personality-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=personality-analyzer&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Personality Analyzer"/>
+  </a>
+</div>
 
-<p align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/athena-vision)
+<div style="display: inline-block;">
+  <a href="https://github.com/Seckrel/personality-analyzer-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=personality-analyzer-backend&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Personality Analyzer backend repo"/>
+  </a>
 
+  <a href="https://github.com/Seckrel/msg-queuing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=msg-queuing&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Message Queuing"/>
+  </a>
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=gesture-controlled-drone-react&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/gesture-controlled-drone-react)
-
-</p>
-
-<p align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=personality-analyzer-backend&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/personality-analyzer-backend)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=personality-analyzer&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/personality-analyzer)
-
-</p>
-
-<p align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=msg-queuing&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/msg-queuing)
-
-</p>
 
