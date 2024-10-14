@@ -31,10 +31,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Seckrel&count_private=true&show_icons=true&theme=react&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&show_all_commits=true&hide_border=true&hide_title=true" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seckrel&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true&hide=jupyter%20notebook,less&hide_title=true" alt="GitHub top-langs Card" />
 </p>
-
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
-</p>
-
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seckrel&repo=athena-vision&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/Seckrel/athena-vision)
+
+</p>
 
