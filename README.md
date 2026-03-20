@@ -28,10 +28,10 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
+<!-- <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Seckrel&count_private=true&show_icons=true&theme=react&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&show_all_commits=true&hide_border=true&hide_title=true" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seckrel&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true&hide=jupyter%20notebook,less&hide_title=true" alt="GitHub top-langs Card" />
-</p>
+</p> -->
 
 <div style="display: inline-block;">
   <a href="https://github.com/Seckrel/athena-vision">
